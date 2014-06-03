@@ -1,7 +1,7 @@
 Cluster Fudge: <br/>Recipes for WordPress in the Cloud
 =================================================
 
-**My blog post**: _[http://grantnorwood.com/2014/06/03/cluster-fudge-recipes-for-wordpress-in-the-cloud-wordcamp-austin-2014/](Cluster Fudge: Recipes for WordPress in the Cloud)_
+_**My blog post**: [http://grantnorwood.com/2014/06/03/cluster-fudge-recipes-for-wordpress-in-the-cloud-wordcamp-austin-2014/](Cluster Fudge: Recipes for WordPress in the Cloud)_
 
 A helpful repository of sample configuration files and sample code snippets for my talk at **WordCamp Austin 2014**, [_"Cluster Fudge: Recipes for WordPress in the Cloud"_](http://2014.austin.wordcamp.org/session/cluster-fudge-recipes-for-wordpress-in-the-cloud/).  I'll continue to build on this with more sample code and configuration files.
 
